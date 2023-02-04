@@ -1,5 +1,2 @@
-<<<<<<< HEAD
+
 this is gamma branch 1
-=======
-this is gamma branch
->>>>>>> 39fd49088437a855bebe836ae92017f1a8f228f4
